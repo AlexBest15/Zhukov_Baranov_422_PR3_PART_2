@@ -67,7 +67,7 @@ namespace Zhukov_Baranov_422_PR3
             }
             else if (IceRB.IsChecked == true)
             {
-                material = 90000;
+                material = 9000000;
             }
             else
             {
